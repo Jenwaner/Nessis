@@ -1,0 +1,105 @@
+<section id="about" class=" basic-2 pt-15">
+        <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="h2-heading">F.A.Q Ness</h2>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        <div class="container pt-8 pt-md-11">
+          <div class="row">
+            <div class="col-12 col-md-6">
+  
+              <!-- Item -->
+              <div class="d-flex">
+  
+                <!-- Badge -->
+                <i class='fas fa-question-circle' style='font-size:24px;color:#2fdc93'></i>
+  
+                <div class="ml-5">
+  
+                  <!-- Heading -->
+                  <h4 class="text-white">
+                      Should we post your CV on ness to reassure our potential collaborators?
+                  </h4>
+  
+                  <!-- Text -->
+                  <p class="text-white mb-6 mb-md-8">
+                        No ! Everything will happen on ness, the projects that you will post and the dynamics that they will take will prove their cv. So everyone will be able to clearly show all their know-how.
+                  </p>
+  
+                </div>
+  
+              </div>
+  
+              <!-- Item -->
+              <div class="d-flex">
+  
+                <!-- Badge -->
+                <i class='fas fa-question-circle' style='font-size:24px;color:#2fdc93'></i>
+
+                <div class="ml-5">
+  
+                  <!-- Heading -->
+                  <h4 class="text-white">
+                    Do I get free updates?
+                  </h4>
+  
+                  <!-- Text -->
+                  <p class="text-white mb-6 mb-md-8">
+                    Yes. We adding new components, pages, and features.
+                  </p>
+  
+                </div>
+  
+              </div>
+  
+            </div>
+            <div class="col-12 col-md-6">
+  
+              <!-- Item -->
+              <div class="d-flex">
+  
+                <!-- Badge -->
+                <i class='fas fa-question-circle' style='font-size:24px;color:#2fdc93'></i>
+  
+                <div class="ml-5">
+  
+                  <!-- Heading -->
+                  <h4 class="text-white">
+                    Is there a money back guarantee?
+                  </h4>
+  
+                  <!-- Text -->
+                  <p class="text-white mb-6 mb-md-8">
+                    Yup! Ness come with a satisfaction guarantee. Submit a return and get your money back.
+                  </p>
+  
+                </div>
+  
+              </div>
+  
+              <!-- Item -->
+              <div class="d-flex">
+  
+                <!-- Badge -->
+                <i class='fas fa-question-circle' style='font-size:24px;color:#2fdc93'></i>
+  
+                <div class="ml-5">
+  
+                  <!-- Heading -->
+                  <h4 class="text-white">
+                    Does it work with all devices ? 
+                  </h4>
+  
+                  <!-- Text -->
+                  <p class="text-white mb-6 mb-md-8">
+                    Yes. Ness work with all devices !
+                  </p>
+  
+                </div>
+  
+              </div>
+  
+            </div>
+          </div> <!-- / .row -->
+        </div> <!-- / .container -->
+      </section>
